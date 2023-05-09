@@ -22,5 +22,5 @@ app.get('/', async function(req, res) {
 const link = links[Math.floor(Math.random() * links.length)]
 
     let open = link
-    res.redirect(open)
+    window.location.replace(open);
 })
