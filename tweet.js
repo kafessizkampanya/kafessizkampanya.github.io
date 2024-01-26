@@ -16,6 +16,9 @@ const addresses = [
     "https://maps.app.goo.gl/sPdit4i84ZvuUXU49",
     "https://maps.app.goo.gl/sPdit4i84ZvuUXU49",
     "https://maps.app.goo.gl/xmHTh2D9RPnMxx518",
+    "https://maps.app.goo.gl/sPdit4i84ZvuUXU49",
+    "https://maps.app.goo.gl/2GUp5UoXxov9dHCL6",
+    "https://maps.app.goo.gl/2GUp5UoXxov9dHCL6"
 
 
 ];
