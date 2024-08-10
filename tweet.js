@@ -31,7 +31,11 @@ const addresses = [
     "https://maps.app.goo.gl/bUmcPzYZFVwu2A8r9",
     "https://maps.app.goo.gl/bUmcPzYZFVwu2A8r9",
     "https://maps.app.goo.gl/PYYUVc4X6Jzc2E3QA",
-    "https://maps.app.goo.gl/3d9kwgugvfGWL3389"
+    "https://maps.app.goo.gl/3d9kwgugvfGWL3389",
+    "https://maps.app.goo.gl/k1LhAyRmNBnk9yG2A",
+    "https://maps.app.goo.gl/gFQyqLMF2SCYBxBS9",
+    "https://maps.app.goo.gl/e7rP5rA6KBk4UMba9",
+    "https://maps.app.goo.gl/NZECiWyhuibMwmwN6"
     
 
 ];
